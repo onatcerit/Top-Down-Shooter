@@ -36,4 +36,3 @@ The objective is to survive against increasingly difficult zombie waves using va
    git clone https://github.com/onatcerit/Top-Down-Shooter.git
 2. Open the project in an IDE (e.g., IntelliJ IDEA or VS Code).
 3. Run Game.java.
-   git clone https://github.com/onatcerit/Top-Down-Shooter.gi
